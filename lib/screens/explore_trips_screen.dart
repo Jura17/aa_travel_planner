@@ -1,4 +1,3 @@
-import 'package:aa_travel_planner/main.dart';
 import 'package:aa_travel_planner/repositories/trip_repository.dart';
 import 'package:aa_travel_planner/widgets/trip_card_horizontal.dart';
 import 'package:aa_travel_planner/widgets/trip_card_vertical.dart';

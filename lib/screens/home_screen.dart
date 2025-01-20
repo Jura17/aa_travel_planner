@@ -1,4 +1,3 @@
-import 'package:aa_travel_planner/main.dart';
 import 'package:aa_travel_planner/models/trip.dart';
 import 'package:aa_travel_planner/repositories/destination_repository.dart';
 import 'package:aa_travel_planner/repositories/favorites_repository.dart';
